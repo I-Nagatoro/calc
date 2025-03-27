@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sokol\\source\\repos\\calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D1F4B-320D-4791-BC52-9105E1E2E792}|calc.Tests\\calc.Tests.csproj|c:\\users\\sokol\\source\\repos\\calc\\calc.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D1F4B-320D-4791-BC52-9105E1E2E792}|calc.Tests\\calc.Tests.csproj|solutionrelative:calc.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AEADA5-BDDA-48A7-AFA2-6239FD09F07E}|calc\\calc.csproj|c:\\users\\sokol\\source\\repos\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AEADA5-BDDA-48A7-AFA2-6239FD09F07E}|calc\\calc.csproj|solutionrelative:calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\Source\\Repos\\calc\\calc\\Program.cs",
+              "RelativeDocumentMoniker": "calc\\Program.cs",
+              "ToolTip": "C:\\Users\\sokol\\Source\\Repos\\calc\\calc\\Program.cs",
+              "RelativeToolTip": "calc\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:39:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\source\\repos\\calc\\calc.Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "calc.Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\sokol\\source\\repos\\calc\\calc.Tests\\Tests.cs",
+              "RelativeToolTip": "calc.Tests\\Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:57:08.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
