@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sokol\\source\\repos\\calc\\calc.Tests\\calc.Tests.csproj": {}
+    "C:\\Users\\adm111\\RiderProjects\\calc\\calc.Tests\\calc.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sokol\\source\\repos\\calc\\calc.Tests\\calc.Tests.csproj": {
+    "C:\\Users\\adm111\\RiderProjects\\calc\\calc.Tests\\calc.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sokol\\source\\repos\\calc\\calc.Tests\\calc.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\adm111\\RiderProjects\\calc\\calc.Tests\\calc.Tests.csproj",
         "projectName": "calc.Tests",
-        "projectPath": "C:\\Users\\sokol\\source\\repos\\calc\\calc.Tests\\calc.Tests.csproj",
-        "packagesPath": "C:\\Users\\sokol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sokol\\source\\repos\\calc\\calc.Tests\\obj\\",
+        "projectPath": "C:\\Users\\adm111\\RiderProjects\\calc\\calc.Tests\\calc.Tests.csproj",
+        "packagesPath": "C:\\Users\\adm111\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adm111\\RiderProjects\\calc\\calc.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adm111\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\sokol\\source\\repos\\calc\\calc\\calc.csproj": {
-                "projectPath": "C:\\Users\\sokol\\source\\repos\\calc\\calc\\calc.csproj"
+              "C:\\Users\\adm111\\RiderProjects\\calc\\calc\\calc.csproj": {
+                "projectPath": "C:\\Users\\adm111\\RiderProjects\\calc\\calc\\calc.csproj"
               }
             }
           }
@@ -47,8 +48,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -83,24 +83,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sokol\\Source\\Repos\\calc\\calc\\calc.csproj": {
+    "C:\\Users\\adm111\\RiderProjects\\calc\\calc\\calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sokol\\Source\\Repos\\calc\\calc\\calc.csproj",
+        "projectUniqueName": "C:\\Users\\adm111\\RiderProjects\\calc\\calc\\calc.csproj",
         "projectName": "calc",
-        "projectPath": "C:\\Users\\sokol\\Source\\Repos\\calc\\calc\\calc.csproj",
-        "packagesPath": "C:\\Users\\sokol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sokol\\Source\\Repos\\calc\\calc\\obj\\",
+        "projectPath": "C:\\Users\\adm111\\RiderProjects\\calc\\calc\\calc.csproj",
+        "packagesPath": "C:\\Users\\adm111\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adm111\\RiderProjects\\calc\\calc\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adm111\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,8 +127,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -162,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
