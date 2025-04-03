@@ -70,9 +70,35 @@ namespace CalcWithBugs.Tests
             Assert.That(result, Is.EqualTo("0.6420926159343306"));
         }
                 
+        [Test]
+        public void NegativeNumberSum()
+        {
+            var result = _calculator.Sum(new[] { "-1", "2" });
+            Assert.That(result, Is.EqualTo("1"));
+        }
         
+                
+        [Test]
+        public void NegativeNumberMin()
+        {
+            var result = _calculator.Min(new[] { "-1", "2" });
+            Assert.That(result, Is.EqualTo("-3"));
+        }
         
+                
+        [Test]
+        public void NegativeNumberMult()
+        {
+            var result = _calculator.Sum(new[] { "-1", "2" });
+            Assert.That(result, Is.EqualTo("-2"));
+        }
         
+        [Test]
+        public void NegativeNumberDiv()
+        {
+            var result = _calculator.Div(new[] { "-1", "2" });
+            Assert.That(result, Is.EqualTo("-0.5"));
+        }
         [Test]
         public void Sum_TwoNumbers_ReturnsSum()
         {
