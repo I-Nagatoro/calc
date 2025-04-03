@@ -18,7 +18,7 @@ namespace CalcWithBugs.Tests
         public void FloatNumSum()
         {
             var result = _calculator.Sum(new[] { "2.0", "3" });
-            Assert.That(result, Is.EqualTo(2));
+            Assert.That(result, Is.EqualTo(5));
         }
         
         [Test]
